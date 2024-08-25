@@ -1,4 +1,4 @@
-package com.kiam.domain;
+package com.kiam.domain.model;
 
 import jakarta.persistence.*;
 
